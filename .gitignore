@@ -22,7 +22,7 @@ build/
 
 # Data & outputs (adjust as needed)
 data/
-outputs/
+output/
 *.pt
 *.pth
 runs/
