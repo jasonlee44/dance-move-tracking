@@ -1,0 +1,23 @@
+# PyTorch (CPU by default on macOS; use pytorch.org for CUDA/MPS variants)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Core scientific & deep learning
+numpy>=1.24.0,<3.0
+scipy>=1.10.0
+
+# Visualization & logging
+matplotlib>=3.7.0
+tensorboard>=2.12.0
+tqdm>=4.65.0
+
+# Image & video (useful for dance-move-tracking)
+Pillow>=9.5.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+certifi>=2024.0.0
+
+# Utilities
+scikit-learn>=1.2.0
+pyyaml>=6.0
