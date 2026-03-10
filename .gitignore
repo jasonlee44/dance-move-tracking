@@ -27,5 +27,6 @@ output/
 *.pth
 runs/
 
+.gitignore
 .DS_Store
 project_goal.txt
