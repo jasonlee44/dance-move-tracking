@@ -1,4 +1,4 @@
-# Dance Move Tracking
+# Dance Pose Analysis
 
 A desktop app that takes a video of dance choreography, runs pose estimation on it, and breaks the motion into steps with timestamps and keyframes so someone can learn the dance.
 
